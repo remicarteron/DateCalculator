@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Date Calculator</string>
+
+    <string name="empty" />
+
+    <string name="gap_days" >%1$d jours</string>
+    <string name="gap_weeks" > %1$d semaines %2$d jours  </string>
+
+</resources>
